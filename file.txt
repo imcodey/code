@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my hub</title>
+    <link rel="stylesheet" href="myhub.css">
+</head>
+<body>
+    <body class="container-fulid">
+        <nav>
+            <ul>
+                <a href="#">
+                    <li>Home</li>
+                </a>
+                <a href="#">
+                    <li>About US</li>
+                </a>
+                <a href="#">
+                    <li>Resume</li>
+                </a>
+                <a href="#">
+                    <li>Contect US</li>
+                </a>
+            </ul>
+        </nav>
+        <!-- introduction -->
+        <div class="main">
+            <div class="detls">
+                <div class="name">
+                    8th class memory
+                </div>
+                <div class="skill">
+                    my love
+                </div>
+            </div>
+            <div class="avtar">
+                <img src="https://www.instagram.com/p/CyHoYckohji/?igshid=MzRlODBiNWFlZA==" alt="">
+            </div>
+        </div>
+        <!-- About us -->
+        <div class="about">
+            <p class="abt-head">
+                <span class="move1">About by 8th class and my friend some memory</span>
+            </p>
+            <p class="abt-contant">
+                <span>
+                    <details open>
+                        <summary>so my name is aditya raj  and my insta</summary>
+                        <p>
+                            hello everyone i am raj <a href="class_lover_8586"></a> ajj ma apko humri class 8th ki kuch batta batyunga aur thoda bahut apna bara ma bhi 
+                            4 augest 2022 ya vo din tha jis din es story ki suryuat hui 
+                            es din mari mummy na muja ek new school ma admison karya jis school ka nam mount abu public school tha ya delhi rohni sectory 18 ma tha jitna ajib iska nam tha utna hi ajiab ya mast ya school tha
+                            ma jab es school ma pahli bar gaya to muja bhaut dar lag raha tha par mara vo sara dar khtam ho gaya jab ma us school ma gaya 
+                            to ma btta hu kya kya hua mara stah school ma 
+                            ma subah suabh mast tayar ho kar school gaya us din mara pahla din tha to bahut jaldi pouch gaya fir waha par gate band tha fir mana thoda intzar kyi tabhi dehra dehra kar ke bachha ana lga 
+                            fir dekta hi dekta sara baccha a gaya fir sab muja hi deak raha tha 
+                            tabhi mana achnak sa mara akaha chmak uathi ek ladki ki class ma enty hui ussa dekta hi mara dill jor jor sa dhrkna lga muja smaj nahi a raha tha ki mara satha kya ho raha hn 
+                            fir vo ladki mara sman a kar bath gayi sach khu to ussa dekta hi mara dill usmpa a gaya tha 
+                            ma bs kisi bhi trah ussa batt karna chayta tha liken smaj nahi a raha tha kesa bolu ussa ma 
+                            fir mana himmat kar ke ussa batt kri fir usna bhi mujsa batt kri 
+                            fir dehra dehra hum sab dost banna lga 
+                            are hn uska nam batna to bhual hi gaya ma uska name SHREYA❤️ tha hyy uska name bhi kitna payrr tha 
+                            fir muja ptta chal ki us class ma sab insta chlta hn fir mana bhi insta chlna chlu kar diya 
+                            aur mari id ka nam CLASS_LOVER_8586 
+                            aur tabhi sa mara nam class ma esi nam sa famous ho gaya 
+                            aur fir humna mil ka 7th aur 8th class ma mil kar bahut sara kand kyi 😂🤣 
+                            itna ki ma apko batt nahi skat fir dehra dehra muja ussa ladki yani shreya sa payrr ho gaya 
+                            mari drem girl ban chuki thi vo ma pagal ho gaya tha uska pitcha 
+                            aur fir muja pta chal shreya bhrman thi aur mara hi village ki thi dhrnbanga 
+                            vasa ma apko bta deta hu humri class ma sab bihar ka stah most of baccha bihar ka tha 
+                            kuch kuch bachh hi kisi aur sate ka tha 
+                            aur hn ma apna dosto ka nam to ap ko batna hi bhual gaya 
+                             shreya jha 
+                             anmol kumri
+                             paryinshi
+                            anupam
+                            rahul
+                            arnav shrma
+                            shuary
+                            anmol bahi
+                            to ya tha mara bestfrend aur mara nam to apko ptta hi hn aditya raj mishra mara full name hn 
+                            apko ab ma SHREYA❤️ ka bara ma btta hu shreya muja pasnd nahi karti thi vo mara hi ek dost anupam ko pasnd karti thi 
+                            aur anupam usko pasnd nahi karta tha 
+                            ek sach batt batyuo anupam ko humra school ma sab pasnd karta tha ptt nahi kyu 
+                            jo bhi khu band mast tha 
+                            aur rahul mara bahut payrr dost tha vo to bawal tha rahul 
+                            suno_ Shreya na muja kabhi pasnd nahi karti thi ptt nahi kyu 
+                            shyad vo mujsa nafrat bhi karti thi 
+                            aur ma pagal ki traf uska pitch pra rahta tha vo kitni bar muja mna kar chki thi par ma uska pitcha hi nahi choda tha
+                            ma shreya sa kitna payrr karta tha ya srif ma hi janta tha 
+                            had sa jayda shreya jitni cute koi ladki nahi thi bahut cute thi vo 
+                            chlo chodo shreya ka bara ma agar ma batna batha to 7 jnam bhi kam par jaynga chodo 
+                            mara jitna bhi dost tha ya sab mara jann tha 
+                            
+
+                            
+
+                            
+
+
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> insta doll shreya  </summary>
+                        <p>
+                            shreya ka birthday 8 may ko atta hn vo bahut cute hn uski smil bahut cute hn vo bhrman hn vo bihar sa hn vo delhi ma rahti hn burri ma uski insta id insta_dool_shreya hn 
+                            shreya class ki tooper bhi hn aur shreya aur shreya muja bilkul bhua nahi deti hn 🤣🤣🤣 shreya ka payrr par sa ab bhrosa uath gaya hn 
+                            SHREYA bahut humbel hn shreya kabhi bhi ksis ko duakh nahi poucthi hn 
+                            vo bahut achhi hn aur shreya mari bahut achhi dost hn 
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary>anuu.com</summary>
+                        <p>
+                            anmol kumri ka birthday 22 febuary ko att hn aur ya baut patli ladki hn agar isko fuak maroga to ya hawa ma uad jayngi asi ladki thi ya hn par ladki acchi thi yarr ya mari best frind thi ya dil ki bahut achhi thi yarr 
+                            ptta hn anmol kumri aur mari kabhi nahi banti thi vo humsa muja dhmkti rahti thi ki shreya sa rakhi bandhva dongi fir ma ussa mannta tha are ya badli ma rahti thi ya anmol kumri adhi pagal thi jab man karta tha kisi sa bhi lad leti thi par ya humsa mari 
+                            copy complte karti thi bahut acchi thi ya diil ki 
+                            anmol kumri ko ma bahut prsan karta tha matlb uski bhar ka bejjti marta tha par dill ki ya bhi bahut achhi thi  
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> moonligth</summary>
+                        <p>
+                            paryinshi ka birthday 25 december ko atta hn paryinshi ka asli nam humna rakha tha dhuki attma jab deko esko duki hi rahti thi aba sala ma duki ho jata tha ess khuas karna ma 
+                            pta hn ya humsa kyu dhuki rahti thi kyuki ya anupam sa payrr karti thi aur anupm essa bilkul bhi payrr nahi karta tha 
+                            liken kuch bh kho paryinshi na dill ki bahut achhi thi humsa mari maddt karti thi aur humsa apna ap ko mussibat ma dalti thi 
+                            ptt hn ya na puri pagal thi esko jab man karta tha roo deti thi aur esko koi chup bhi nahi karta tha 
+                            vasa ya na raja vihar ma rahti thi pagal si
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> punjab sidu  </summary>
+                        <p>
+                            {anupam bahi tha mara } bahi es banda ka bara ma kya hi khu school ki har ladki espa marti thi kyuki banda padyi ma to 2nd topper thi aur banda smar bahi tha 
+                            bs anupam bahi ma thodi akad thi par vo bhi uspa acchi lagti thi yarr ya yaro ka yarr tha school ki har ladyi ma humra satha rahta tha banda humsa humra stah khda rahta tha
+                            hn mari aur eski kabhi kabhi nahi bandti thi par dill ka bura nahi tha ya banda 
+                            sach khua to muja na essa kabhi kabhi bahut jalan hotti thi kyuki jab ya shreya sa chipkta tha na muja bahut gussa ata tha 
+                            par ma kuch nahi bolta tha par banda bahut achha tha kabhi kisi ko akla nahi chodta tha 
+                            anupam sach ma ek play boy tha 
+                            vasa ma btta du ya banda rohini sector 18 ma rahta tha 
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary>rahul </summary>
+                        <p>
+                            rahul bahi aur jann dono kha lo ess mara kyuki esma mari jann basti thi sach ma agar rahul ko mara alawa koi aur hatt lga to muja bhaut guusa atta tha 
+                            mara alwa usko aur koi nahi marta tha rahul dikhna ma bahut cute tha par sala tha bahut harmi banda humsa muja parsan karta tha aur hasta rahta tha 
+                            ek vhi tha jo mari bejjti karta tha rahul ki ek crush thi uska nam annya tha banda uska pitcha marta tha 
+                            par usna school hi choad diya 🤣🤣 rahal ko mara sara sach ptta tha jo batt muja bhi nahi pta thi vo bhi usko pta thi mara bara ma 
+                            vasa ya bhi vahi badli ma rhat tha 
+                        </p>
+                    </details>
+                    <hr>
+                    <hr>
+                    <details>
+                        <summary>arnav shrma  </summary>
+                        <p>
+                            ya banda bhi kmal ka tha esa kuch hotta to nahi tha par slaa humsa system syste karta rahtra tha 
+                            par ya humsa ladyi ma khda rahta tha 
+                            esko anvi pa crush tha 
+                            bahi liken mla ka beta tha banda ka pass power to thi 
+                        </p>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> anmol </summary>
+                        <p>
+                            anmol yarr ya banda na alag hi tha ya na har dusra din crush badlta tha mari nazar ma 
+                            par bahi banda achha tha mari nazar ma vasa esko bhi anvi pa crush tha 🤣🤣🤣
+                            anupam eski jann tha anupam ka ya best frend tha banda 
+                            vasa ya smaypur laber chuak pa rahta tha
+                        </p>
+
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> shuary</summary>
+                            <P>
+                                shuary ya banda na bahi bahut mast tha personli mara fav tha ya banda na har waqt dusra ka bara ma socta tha 
+                                matlb dosra ka mamla ma esa ana hi tha jesa kiski kiska satha ladyi hui kisna kisko parpose kyi 
+                                aur sala na puri school life huma apni insta id ka pass nahi diya 
+                                eski na eski tution vali didi sa bahut fatt ti thi par banda dill ka bahut achha tha 
+
+                            </P>
+                    </details>
+                    <hr>
+                    <details>
+                        <summary> class_lover_8586 </summary>
+                        <p>
+                            ab mara bara ma kya batyo mari life ma suakh nam ki cihz nahi thi mara stah humsa kuch na kuch kand hota rahta tha
+                            pta hn ma kabhi rota nahi tha jaldi kabhi nahi 
+                            mara padhi ka alawa har ciaz ma dimag chalta tha 
+                            ma ek hi bar roya hu life shreya ka liya vo bhi 
+                            kyuki ma ussa bahut payrr jo karta tha vo mari jann thai 
+                            ab kya hi batu uska bara ma 
+                            baki ma rajiv nager ma rahta tha 
+                        </p>
+                    </details>
+
+
+                </span>
+            </p>
+        </div>
+        <!-- contect -->
+        <!-- <div class="contect"> -->
+            <!-- <p class="cont-head"> -->
+                <!-- <span class="move1">Contect us</span> -->
+            </p>
+            <div class="cont-contant"> -->
+                <form action="https://formsubmit.co/myaduvanshi1508@gmail.com" method="POST">
+                <form action="https://formspree.io/f/xyyqjzda" method="POST">
+                    <label for="fname">Name</label><br>
+                    <input type="text" name="fname" id="fname" placeholder="" required><br>
+                    <label for="email">Email</label><br>
+                    <input type="email" name="email" id="email" placeholder="example@.com" required><br>
+                    <label for="tel">Phone No</label><br>
+                    <input type="tel" maxlength="10" name="tel" id="tel" placeholder="0123456789" required>
+                    <label for="address">Address</label>
+                    <input type="text" name="address" id="address" placeholder="Address" required>
+                    <label for="query">Problem</label>
+                    <input type="text" class="message" name="query" id="query" placeholder="Type your message...">
+                    <!-- <textarea class="message" name="query" id="query" cols="30" rows="10"></textarea> -->
+                    <button class="submit">Submit</button> -->
+                </form>
+            </div>
+        </div>
+        <div class="vision">
+            <div class="card">
+                <img src="./image/tm.jpg" alt="">
+                <span>Team Management</span>
+            </div>
+            <div class="card">
+                <img src="./image/prosolving.png" alt="">
+                <span>Problem Solving</span>
+            </div>
+            <div class="card">
+                <img src="./image/trust.png" alt="">
+                <span>User Trust</span>
+            </div>
+            <div class="card">
+                <img src="./image/usrsetifi.png" alt="">
+                <span>User Satisfaction</span>
+            </div>
+        </div>
+        <!-- footer -->
+        <footer>
+            <h3>Follow Me on Social Media:</h3>
+            <a href="https://instagram.com/m.yaduvanshi1508/">
+                <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+            </a>
+            <a href="https://www.linkedin.com/in/mukesh-498924202/">
+                <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+            </a>
+            <a href="https://github.com/imcodey">
+                <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/git.png" alt="git"/>
+            </a>
+            <br>
+        </footer>
+        <script src="script.js"></script>
+        <script src="https://smtpjs.com/v3/smtp.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+            crossorigin="anonymous"></script>
+    </body>
+    
+    </html>
+    
+</body>
+</html>
